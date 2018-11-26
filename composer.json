@@ -1,0 +1,29 @@
+{
+  "name": "dimaminka/spp",
+  "type": "project",
+  "license": "MIT",
+  "description": "Simple php package",
+  "homepage": "https://github.com/DimaMinka/spp/",
+  "authors": [
+    {
+      "name": "Dima Minka",
+      "email": "cdk@cdk.co.il",
+      "homepage": "http://cdk.co.il"
+    }
+  ],
+  "keywords": [
+    "composer"
+  ],
+  "support": {
+    "issues": "https://github.com/DimaMinka/spp/issues",
+    "forum": "https://github.com/DimaMinka/spp/issues"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "require": {
+    "php": ">=7",
+    "vlucas/phpdotenv": "^2.5.1",
+    "oscarotero/env": "^1.1.0"
+  }
+}

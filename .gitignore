@@ -1,0 +1,16 @@
+# Application
+
+# Dotenv
+.env
+!.env.example
+
+# Composer
+vendor/*
+!vendor/.gitkeep
+
+# Workflow
+.idea
+conf
+logs
+htdocs
+public
